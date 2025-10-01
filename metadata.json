@@ -1,0 +1,7 @@
+{
+  "name": "Speyci",
+  "description": "Um aplicativo feito para programar usando a IA Speyci.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
